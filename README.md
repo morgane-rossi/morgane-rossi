@@ -14,6 +14,17 @@ Je suis rigoureuse, curieuse, autodidacte, je sais travailler en autonomie comme
 - Design web Responsive
 - Mysql et Bases de données Relationnelles
 
+## Ma liste de projets
+
+- todo list en JavaEE avec le pattern DAO et mysql :
+https://github.com/morgane-du-tweize/todolist
+- projet opensource auquel j'ai participé :
+https://github.com/morgane-du-tweize/fheroes2
+
+## Mon profil LinkedIn
+
+- https://www.linkedin.com/in/morganerossi13/
+
 <!--
 **morgane-rossi/morgane-rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
