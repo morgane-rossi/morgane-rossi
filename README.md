@@ -1,4 +1,5 @@
 ## Hi there 👋
+![from_assets](https://github.com/morgane-rossi/assets/blob/main/1681393657544.jpeg)
 
 <!--
 **morgane-rossi/morgane-rossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
